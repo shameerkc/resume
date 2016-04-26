@@ -1,2 +1,5 @@
-# shameerkc.github.io
-All about me - Basic themes reused from donho.github.io
+### My Resume hosted on Github pages
+Thankyou [Don HO of Notepad++](http://donho.github.io/) for the idea
+
+Checkout [shameerkc.github.io/resume](http://shameerkc.github.io/resume) to view the resume
+
